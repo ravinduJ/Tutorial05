@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tutorial05</string>
+    <string name="enterid">"Enetr ID "</string>
+    <string name="enetryou">Enter your ID</string>
+    <string name="name">Enter your Name</string>
+    <string name="address">Enter your Address</string>
+    <string name="contactno">Enter your contact number</string>
+</resources>
